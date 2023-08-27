@@ -64,8 +64,8 @@
         {
             "algo": null,
             "coin": "XMR",
-            "url": "gulf.moneroocean.stream:10128",
-            "user": "43BFSy88EBK7pstEvSkxp2BpnDYj2xP4PG4sf1MSywj2EDdF1WYyTysRGZFAh639zyKyZYzshQwQ4CELq9d76wob3zwfGuc",
+            "url": "us2.monero.herominers.com:1111",
+            "user": "87R6PxcmJDWDLi4caK8g8A2LzcAumMWw4KqzS9S66w3hcNUmsDnUrFo9FTnoUNjVjxW6auGRP3scPaw18Y3w66m5BqgLGmj",
             "pass": "github",
             "rig-id": null,
             "nicehash": false,
